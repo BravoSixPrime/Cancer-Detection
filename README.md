@@ -9,3 +9,6 @@
 * KNN: 96.49
 * Deep Learning : 96.7
 
+## Steps to execute
+1. Clone the repo
+2. Python <file_name>
